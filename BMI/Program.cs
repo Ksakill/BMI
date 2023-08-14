@@ -28,7 +28,7 @@ namespace BMICalculator
             Console.WriteLine($"Your BMI is {bmi:f2} ");
             Console.ReadLine();
 
-            Console.WriteLine("underwight: 16-18,5     norm: 18,5'24     over weight: 24-30     first degree of obisity: 30-35    second degree of obeisty; 35-40      thred degree of obisty: 40-up");
+            Console.WriteLine("underwight: 16-18,5     norm: 18,5-24     over weight: 24-30     first degree of obisity: 30-35    second degree of obeisty; 35-40      thred degree of obisty: 40-up");
             
         }
         static double calckBMI(double Vægt, double Højde)
